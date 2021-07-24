@@ -30,4 +30,4 @@ Link to the data set: http://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+
 
 # Framework:
 •	Fitted multiple linear regression model on the dataset and on encountering violation of various assumptions of CLRM, provided various regression techniques as their remedial measures .
-•	Comparing RMSE of the various regression techniques, we found that each of the techniques had very close RMSEs, with the reduced model having the least RMSE value of 0.0175.
+•	Comparing RMSEs of the various regression techniques, we found that each of the techniques had very close RMSEs, with the reduced model having the least RMSE value of 0.0175.
